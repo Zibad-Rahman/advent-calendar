@@ -11,66 +11,66 @@ document.addEventListener('DOMContentLoaded', function () {
     const dayData = {
         1: {
             image: './images/1.jpg',
-            quote: 'You look beautiful today (had to start w the classic)',
+            quote: 'Insert text here',
             audio: './audio/1.mp3',
             file: './documents/Day 1.pdf'
         },
         2: {
             image: './images/15.jpeg',
-            quote: "You're amazing in how you can be both a silly little goofball and one of the smartest people I know",
+            quote: "Insert text here",
             audio: './audio/2.mp3'
         },
         3: {
             image: './images/3.jpg',
-            quote: 'You strong. You loyal. I appreciate you.',
+            quote: 'Insert text here',
             audio: './audio/3.mp3'
         },
         4: {
             image: './images/4.jpg',
-            quote: 'Hearing you moan when I trace the beauty that is your body with kisses and feeling you quiver on my tongue when I taste you almost makes up for the fact that I can\'t watch myself drip out of you.',
+            quote: 'Insert text here',
             audio: './audio/4.mp3',
             file: './documents/Day 4.pdf'
         },
         5: {
             image: './images/5.jpg',
-            quote: 'Miss girl. The fashion sense? SLAYING. The makeup? GIVING YASSQUEEN. The vibe? *moan noises*',
+            quote: 'Insert text here',
             audio: './audio/5.mp3'
         },
         6: {
             image: './images/6.jpg',
-            quote: "You're one of the most badass people I know like seriously who else can party all night, ride a mans face into high heaven AND go run a whole shift at work after??",
+            quote: 'Insert text here',
             audio: './audio/6.mp3'
         },
         7: {
             image: './images/13.jpg',
-            quote: 'E G G',
+            quote: 'Insert text here',
             audio: './audio/7.mp3'
         },
         8: {
             image: './images/8.jpg',
-            quote: 'You make me wanna kill myself/others slightly less sometimes or whatever bro',
+            quote: 'Insert text here',
             audio: './audio/8.mp3',
             file: './documents/Day 8.pdf'
         },
         9: {
             image: './images/9.jpg',
-            quote: 'All these drugs out here yet you\'re still my favourite one',
+            quote: 'Insert text here',
             audio: './audio/9.mp3'
         },
         10: {
             image: './images/10.jpg',
-            quote: 'You\'re like a rose. Sweet, beautiful and loving but also with a thorny and spooky exterior that you gotta be cautious of',
+            quote: 'Insert text here',
             audio: './audio/10.mp3',
             file: './documents/Day 10.pdf'
         },
         11: {
             image: './images/11.jpg',
-            quote: 'you\'re easily conditionable (not me you *gun emoji*)',
+            quote: 'Insert text here',
             audio: './audio/11.mp3'
         },
         12: {
             image: './images/12.jpg',
-            quote: 'I love how you are everything I could ask for and more. A friend, homie, partner, and goofball. You make me want to be better every day and make all the bad thoughts and stresses go away. When you melt into me, time stops. I hope this calendar project made you as happy as you make me every day princesa. Para todo o sempre',
+            quote: 'Insert text here',
             audio: './audio/12.mp3',
         }
     };
