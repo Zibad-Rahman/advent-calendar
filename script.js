@@ -29,7 +29,6 @@ document.addEventListener('DOMContentLoaded', function () {
             image: './images/4.jpg',
             quote: 'Insert text here',
             audio: './audio/4.mp3',
-            file: './documents/Day 4.pdf'
         },
         5: {
             image: './images/5.jpg',
